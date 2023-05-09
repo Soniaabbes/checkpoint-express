@@ -1,0 +1,8 @@
+.welcome , .service , .contact{color:rgb(75, 20, 126) ;margin-top: 10px; margin-left: 500px ; font-size: 50px; font-weight: bolder; font-family: 'Lucida Sans'}
+.h27 { font-size: 40px; font-weight: bolder; color: brown;}
+.services{display: flex; justify-content: space-between; margin: 50px; font-weight: bold;}
+.welcome {   margin-top: 10px; margin-left: 450px ; font-size: 50px; font-weight: bolder; font-family: 'Lucida Sans' ; height: 500px; width: 700px;}
+.web{ width: 250px; height:300px;}
+.web2{ width: 350px; height:300px;}
+.web3{ width: 400px; height:300px;}
+.address{ width: 100px; height:100px;}
